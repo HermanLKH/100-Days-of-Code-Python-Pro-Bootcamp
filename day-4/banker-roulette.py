@@ -1,5 +1,3 @@
-# Banker roulette
-
 import random
 
 names_string = input("Give me everybody's names, separated by a comma. ")

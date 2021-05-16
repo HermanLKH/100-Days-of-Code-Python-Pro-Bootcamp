@@ -1,5 +1,3 @@
-# Prime checker
-
 def prime_checker(number):
 	if number > 1:
 		is_prime_number = True

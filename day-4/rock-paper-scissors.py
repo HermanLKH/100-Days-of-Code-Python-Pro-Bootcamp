@@ -1,5 +1,3 @@
-# Rock, paper, scissors
-
 import random
 
 rock = '''
