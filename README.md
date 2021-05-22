@@ -9,16 +9,57 @@
 
 ## My progression so far ......
 
-## Error types I learnt
+### Error types I learnt
 1. Syntax error
 2. Name error - variable name undefined
 3. Logic error
 4. Type error
-5. Indentation error
-6. Value error
-7. Index error - list index out of range
-8. Key error - key not exist in dictionary
-9. Unbound local error
+5. TabError - inconsistent use of tabs and spaces in indentation
+6. IndentationError - unindent does not match any outer indentation level
+7. Value error
+8. Index error - list index out of range
+9. Key error - key not exist in dictionary
+10. Unbound local error
+
+### Debugging tips
+1. describe the problem
+- what is the code doing
+- when is the code meant to do something
+- try to make assumptions about the output and value of variable
+
+2. reproduce the bug
+- know when and why bug occur 
+- change the code so that the code always produce that error
+make the scenario consistent and same to ease the process of debugging
+
+3. play computer
+- imagine and predict what happens for each line of code
+- follow the logic, evaluate the condition line by line, visualize the condition in ur head
+
+4. fix the error
+- read and understand the error messages output in console or highlighted by code editor - get clue from them
+- copy and search the error on Internet to find others' solutions
+
+5. print is your friend
+- print the value of variables involved to know which part of the code produce error
+
+6. use a debugger
+- help to visualize the execution of code
+- help to simplify the complex scenario and let us understand te condition
+
+7. take a break
+- have a rest/ go sleep -> make ur brain fresh
+- starring the screen doesn't give u answer
+
+8. ask a friend/ mentor
+-  won't make assumtion u made and will have a different and fresh view point about the problem
+
+9. run often
+- run the code after every little updates
+- dont let the bugs accumulate -> problem will get more complex
+
+10. ask stackoverflow
+- get advices from experienced professionals
 
 ### Day 1
 - Prepare study materials
