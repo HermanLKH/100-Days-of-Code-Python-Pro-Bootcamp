@@ -110,23 +110,23 @@ def get_game_result(player_cards, npc_cards):
 
 	if not player_cards["bust"] and not npc_cards["bust"]:
 		if player_cards["blackjack"]:
-			print("You win with a Blackjack!")
+			print("You win with a Blackjack! 😎")
 		elif npc_cards["blackjack"]:
-			print("NPC wins with a Blackjack!")
+			print("NPC wins with a Blackjack! 😱")
 		elif player_cards["points"] > npc_cards["points"]:
-			print("You win!")
+			print("You win! 😃")
 		elif player_cards["points"] < npc_cards["points"]:
-			print("You lose...")
+			print("You lose 😤")
 		else:
-			print("IT's a tie!")
+			print("IT's a tie! 🙃")
 	elif player_cards["bust"] and not npc_cards["bust"]:
-		print("You are bust. You lose...")
+		print("You are bust... You lose 😤")
 
 	elif not player_cards["bust"] and npc_cards["bust"]:
-		print("You win! NPC bust!")
+		print("You win! NPC bust! 😁")
 	
 	else:
-		print("It's quite awkward... Both of you bust...")
+		print("It's quite awkward... Both of you bust 🙄")
 
 def play_game():
 	print(logo)
