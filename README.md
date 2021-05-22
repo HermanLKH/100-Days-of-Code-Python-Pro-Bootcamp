@@ -22,9 +22,10 @@
 - mathematical operations ( +, -, *, /)
 
 ### Day 3
-- conditional statements ( if-elif-else)
+- if-else statement
 - comparison operators ( >, <, <=, >=, ==)
 - logical operators ( and, or, not)
+- nested if statements
 
 ### Day 4
 - new data type: list
