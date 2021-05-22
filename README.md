@@ -7,7 +7,9 @@
 - I can learn the best practices from professionals
 - I want to have a deeper understanding about coding and learn how to explain
 
-## Error types
+## My progression so far ......
+
+## Error types I learnt
 1. Syntax error
 2. Name error - variable name undefined
 3. Logic error
@@ -17,8 +19,6 @@
 7. Index error - list index out of range
 8. Key error - key not exist in dictionary
 9. Unbound local error
-
-## My progression so far ......
 
 ### Day 1
 - Prepare study materials
