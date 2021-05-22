@@ -118,3 +118,7 @@ make the scenario consistent and same to ease the process of debugging
 - concept of namespace, local scope & global scope
 - constants by convention
 - global variable
+
+### Day 13
+- debugging tips
+- learn to debug in different scenarios and error types
