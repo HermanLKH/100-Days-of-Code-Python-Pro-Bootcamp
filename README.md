@@ -61,6 +61,13 @@ make the scenario consistent and same to ease the process of debugging
 10. ask stackoverflow
 - get advices from experienced professionals
 
+### Coding tips
+1. breakdown the big problem into small problems
+2. make a to-do list and start with the easiest
+3. turn problem statement into comments
+4. write code, run code and debug
+5. tackle next task
+
 ### Day 1
 - Prepare study materials
 <img src="https://user-images.githubusercontent.com/57675016/119217658-23d48a80-bb0e-11eb-984f-f813a64267a4.jpg" width="300px" height="400px" alt="check off poster">
@@ -122,3 +129,6 @@ make the scenario consistent and same to ease the process of debugging
 ### Day 13
 - debugging tips
 - learn to debug in different scenarios and error types
+
+### Day 14
+- Higher Lower Game project!!!
