@@ -26,6 +26,7 @@ while number_of_attempts > 0 and not guess == answer:
 
 	if guess == answer:
 		print(f"You got it! The answer was {answer}.")
+		break
 	elif guess > answer:
 		print("Too high.\nGuess again.")
 	else:
