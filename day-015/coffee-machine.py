@@ -11,9 +11,9 @@
 
 import winsound
 
-coffee_machine_sound = "Espresso-Machine-Jet-Out-Hot-Water-into-Metal-Cup.wav"
-cash_register_sound = "Cash Register (Kaching) - Sound Effect.wav"
-process_complete_sound = "Elevator Bell Ring Sound.wav"
+coffee_machine_sound = "day-015\Espresso-Machine-Jet-Out-Hot-Water-into-Metal-Cup.wav"
+cash_register_sound = "day-015\Cash Register (Kaching) - Sound Effect.wav"
+process_complete_sound = "day-015\Elevator Bell Ring Sound.wav"
 
 MENU = {
     "espresso": {
