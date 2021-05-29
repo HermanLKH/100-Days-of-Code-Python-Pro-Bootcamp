@@ -9,9 +9,9 @@ coffee_maker = CoffeeMaker()
 money_machine = MoneyMachine()
 all_drinks = menu.get_items()
 
-coffee_machine_sound = "day-016\Espresso-Machine-Jet-Out-Hot-Water-into-Metal-Cup.wav"
-cash_register_sound = "day-016\Cash Register (Kaching) - Sound Effect.wav"
-process_complete_sound = "day-016\Elevator Bell Ring Sound.wav"
+coffee_machine_sound = r"day-016\Espresso-Machine-Jet-Out-Hot-Water-into-Metal-Cup.wav"
+cash_register_sound = r"day-016\Cash Register (Kaching) - Sound Effect.wav"
+process_complete_sound = r"day-016\Elevator Bell Ring Sound.wav"
 
 is_on = True
 
