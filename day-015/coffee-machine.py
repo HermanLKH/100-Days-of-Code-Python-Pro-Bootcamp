@@ -1,4 +1,3 @@
-# To-Do List Section
 # TODO DONE 1. prompt user to decide what to do next
 # TODO DONE 2. admin actions - report, off
 # TODO DONE 3. customer actions - 4 drinks
